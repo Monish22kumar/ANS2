@@ -1,0 +1,15 @@
+.patient-id {
+    background-color: white;
+    padding: 16px;
+    margin-bottom: 16px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  /* Media Queries */
+  @media (max-width: 768px) {
+    .patient-id {
+      font-size: 0.9rem;
+    }
+  }
+  
